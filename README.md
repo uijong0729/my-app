@@ -56,3 +56,5 @@ npx expo start
 [1.Hello World출력하기](docs/1.%20Hello%20World출력하기.md)
 
 [2.컴포넌트](docs/2.%20컴포넌트.md)
+
+[3.화면간 이동](docs/3.%20화면.md)
