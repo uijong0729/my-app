@@ -10,11 +10,7 @@ winget search Microsoft.OpenJDK
 winget install Microsoft.OpenJDK.21
 ```
 
-## 3.Gradle설치
-`gradle -v`해보고 없으면 설치
-https://docs.gradle.org/current/userguide/installation.html#windows_installation
-
-## 4.안드로이드 스튜디오 설치
+## 3.안드로이드 스튜디오 설치
 - 확인1.Android SDK Build-Tools와 Android Emulator가 Installed
 ```
 File > Settings > Languages & Frameworks > Android SDK
@@ -24,12 +20,12 @@ File > Settings > Languages & Frameworks > Android SDK
 C:\Users\%사용자명%\AppData\Local\Android\Sdk
 ```
 
-## 5.expo-dev-client 설치
+## 4.expo-dev-client 설치
 ```
 npx expo install expo-dev-client
 ```
 
-## 6.USB연결
+## 5.USB연결
 USB디버그 모드를 활성화 한 후 USB연결 후 아래 커맨드로 확인가능
 ```
 adb devices
